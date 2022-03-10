@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🌱 I’m currently learning adversarial defense
 - 🌐 Here is my bolg [flylee's blog](https://flylee.club)
-
+- 👯 I’m collaborating on AI with [Lry](https://github.com/LRY89757), A God!.
+- 📫 How to reach me: wyb896409234@163.com
+  
 #### Platform&Tools
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 
