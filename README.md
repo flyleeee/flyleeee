@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/flyleeee/flyleeee/blob/main/fufu.gif" width="100">
+
 <!--
 **flyleeee/flyleeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
