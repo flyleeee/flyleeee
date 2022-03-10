@@ -24,5 +24,20 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyleeee)](https://github.com/anuraghazra/github-readme-stats)
 
- <!-- waka-box start -->
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<!-- waka-box start -->
+#### <a href="https://gist.github.com/235111c06b8721cd2a2a793e3c63048f" target="_blank">📊 Weekly development breakdown</a>
+
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
+
+[powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
+
+</td>
+</tr>
+</table>
  <!-- waka-box end -->
