@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning adversarial defense
-- 🌐 Here is my bolg ![flylee's blog](https://flylee.club)
+- 🌐 Here is my bolg [flylee's blog](https://flylee.club)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyleeee)](https://github.com/anuraghazra/github-readme-stats)
 
