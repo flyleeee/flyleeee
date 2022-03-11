@@ -41,5 +41,16 @@ Here are some ideas to get you started:
 [powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
 
 </td>
+<td valign="top" width="50%">
+
+<!-- steam-box start -->
+#### <a href="https://gist.github.com/52fa38c7532d2567e9c9d327156a8061" target="_blank">🎮 Steam playtime leaderboard</a>
+
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
+
+[powered by steam-box](https://github.com/YouEclipse/steam-box)
+
+</td>
 </tr>
 </table>
