@@ -1,4 +1,4 @@
-name: Update wakatime stats
+name: Update steam playtime
 
 on:
   push:
@@ -6,21 +6,19 @@ on:
   pull_request:
     branches: [master]
   schedule:
-    - cron: "5 0 * * *"
+    - cron: "10 * * * *"
 
 jobs:
   build:
-    name: Update-waka-stats
+    name: Update-steam-playtime
     runs-on: ubuntu-latest
     env:
-      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GIST_ID: 52fa38c7532d2567e9c9d327156a8061
+      STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+      STEAM_ID: ${{ secrets.STEAM_ID }}
       UPDATE_OPTION: GIST_AND_MARKDOWN
       MARKDOWN_FILE: README.md
-      GIST_ID: 235111c06b8721cd2a2a793e3c63048f
-      GIST_BARSTYLE: SOLIDLT
-      GIST_BARLENGTH: -1
-      GIST_TIMESTYLE: SHORT
 
     steps:
       - name: Set up Go 1.x
@@ -31,18 +29,16 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
       - uses: actions/setup-go@v2
-      - name: Clone and run waka-box
+      - name: Clone and run steam-box
         run: |-
-          git clone https://github.com/flyleeee/waka-box-go.git
-          cd waka-box-go && go build -o waka ./cmd/box/main.go
-          mv ./waka ../ && cd .. && rm -rf waka-box-go/
+          git clone https://github.com/YouEclipse/steam-box.git 
+          cd steam-box && go build -o steam ./cmd/box/main.go
+          mv ./steam ../ && cd .. && rm -rf steam-box/
 
       - name: Commit and push
         run: |-
-          ./waka
+          ./steam
           git config --global user.email "wyb896409234@163.com" && git config --global user.name "flyleeee"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
           git pull && git push
-          
-          
