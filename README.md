@@ -54,7 +54,7 @@ C        🕓 59m   █▊░░░░░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1553 hrs 27 mins
 🎮 Warframe                         🕘 1080 hrs 17 mins
-🎮 Apex Legends                     🕘 36 hrs 15 mins
+🎮 Apex Legends                     🕘 37 hrs 1 mins
 💻 Wallpaper Engine                 🕘 33 hrs 51 mins
 ⚔️ Dota 2                           🕘 16 hrs 27 mins
 ```
