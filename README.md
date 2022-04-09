@@ -52,9 +52,9 @@ Markdown 🕓 1m    ░░░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/52fa38c7532d2567e9c9d327156a8061" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1553 hrs 41 mins
+🔫 Counter-Strike: Global Offensive 🕘 1554 hrs 53 mins
 🎮 Warframe                         🕘 1080 hrs 17 mins
-🎮 Apex Legends                     🕘 39 hrs 40 mins
+🎮 Apex Legends                     🕘 40 hrs 41 mins
 💻 Wallpaper Engine                 🕘 33 hrs 51 mins
 ⚔️ Dota 2                           🕘 16 hrs 27 mins
 ```
