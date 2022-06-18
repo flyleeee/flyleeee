@@ -53,7 +53,7 @@ JSON   🕓 2m    ▌░░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/52fa38c7532d2567e9c9d327156a8061" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1555 hrs 8 mins
-🎮 Warframe                         🕘 1081 hrs 26 mins
+🎮 Warframe                         🕘 1082 hrs 16 mins
 🎮 Apex Legends                     🕘 42 hrs 42 mins
 💻 Wallpaper Engine                 🕘 35 hrs 17 mins
 ⚔️ Dota 2                           🕘 16 hrs 27 mins
