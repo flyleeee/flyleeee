@@ -54,7 +54,7 @@ Python 🕓 3m    ▍░░░░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike: Global Offensive 🕘 1555 hrs 8 mins
 🎮 Warframe                         🕘 1082 hrs 16 mins
 🎮 Apex Legends                     🕘 42 hrs 42 mins
-💻 Wallpaper Engine                 🕘 35 hrs 19 mins
+💻 Wallpaper Engine                 🕘 36 hrs 34 mins
 ⚔️ Dota 2                           🕘 16 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
