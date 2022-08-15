@@ -49,8 +49,8 @@ Still Gathering Statistics...
 #### <a href="https://gist.github.com/52fa38c7532d2567e9c9d327156a8061" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1590 hrs 20 mins
-🎮 Warframe                         🕘 1107 hrs 1 mins
-🎮 Apex Legends                     🕘 60 hrs 34 mins
+🎮 Warframe                         🕘 1109 hrs 17 mins
+🎮 Apex Legends                     🕘 66 hrs 29 mins
 💻 Wallpaper Engine                 🕘 37 hrs 53 mins
 ⚔️ Dota 2                           🕘 16 hrs 27 mins
 ```
