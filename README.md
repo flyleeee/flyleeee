@@ -50,7 +50,7 @@ Still Gathering Statistics...
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1590 hrs 20 mins
 🎮 Warframe                         🕘 1109 hrs 22 mins
-🎮 Apex Legends                     🕘 199 hrs 15 mins
+🎮 Apex Legends                     🕘 204 hrs 21 mins
 💻 Wallpaper Engine                 🕘 38 hrs 3 mins
 ⚔️ Dota 2                           🕘 16 hrs 27 mins
 ```
