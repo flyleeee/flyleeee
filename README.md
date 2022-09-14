@@ -53,7 +53,7 @@ Objective-C 🕓 0s    ░░░░░░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1590 hrs 20 mins
 🎮 Warframe                         🕘 1109 hrs 22 mins
-🎮 Apex Legends                     🕘 209 hrs 13 mins
+🎮 Apex Legends                     🕘 210 hrs 7 mins
 💻 Wallpaper Engine                 🕘 38 hrs 3 mins
 ⚔️ Dota 2                           🕘 16 hrs 27 mins
 ```
