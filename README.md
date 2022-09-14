@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/235111c06b8721cd2a2a793e3c63048f" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Other       🕓 1h41m ███████████████▉░░░░░░░░░░░ 59.0%
+C++         🕓 1h9m  ██████████▉░░░░░░░░░░░░░░░░ 40.5%
+C           🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.2%
+Objective-C 🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.2%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
