@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning adversarial defense
 - 🌐 Here is my bolg [flylee's blog](https://flylee.club)
-- 📫 How to reach me: wyb896409234@163.com
+- 📫 How to reach me: wyb896409234@gmail.com or u201914858@hust.edu.cn
   
 #### Platform&Tools
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
