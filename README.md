@@ -55,7 +55,7 @@ JSON       🕓 10m   ▌░░░░░░░░░░░░░░░░░░�
 🎮 Warframe                         🕘 1109 hrs 22 mins
 🎮 Apex Legends                     🕘 310 hrs 25 mins
 💻 Wallpaper Engine                 🕘 58 hrs 7 mins
-🎮 The Forest                       🕘 20 hrs 52 mins
+🎮 The Forest                       🕘 22 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
