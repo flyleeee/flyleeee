@@ -53,7 +53,7 @@ JSON       🕓 10m   ▌░░░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1671 hrs 17 mins
 🎮 Warframe                         🕘 1109 hrs 22 mins
-🎮 Apex Legends                     🕘 332 hrs 45 mins
+🎮 Apex Legends                     🕘 335 hrs 55 mins
 💻 Wallpaper Engine                 🕘 63 hrs 43 mins
 🎮 The Forest                       🕘 22 hrs 4 mins
 ```
