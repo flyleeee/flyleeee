@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning adversarial defense
-- 🌐 Here is my academic page [Yibin Wang's Academic Page]([https://yibinwang.netlify.app])
+- 🌐 Here is my academic page [Yibin Wang's Academic Page](https://yibinwang.netlify.app)
 <!-- -  Here is my blog [flylee's blog](https://flyleeee.github.io) -->
 - 📫 How to reach me: wyb896409234@gmail.com or yibinwang@hust.edu.cn (preferred)
   
