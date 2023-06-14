@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🌐 Here is my academic page [Yibin Wang's Academic Page](https://yibinwang.netlify.app)
 - 🖥️ Here is my blog [flylee's blog](https://flyleeee.github.io) (long time no update)
 - 📫 How to reach me: wyb896409234@gmail.com or yibinwang@hust.edu.cn
+- 😄 Welcome to talk with me about anything!
   
 #### Platform&Tools
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
