@@ -57,7 +57,7 @@ JSON       🕓 10m   ▌░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/52fa38c7532d2567e9c9d327156a8061" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike 2                 🕘 1719 hrs 52 mins
-🐹 Warframe                         🕘 1109 hrs 22 mins
+🐹 Warframe                         🕘 1109 hrs 23 mins
 🎮 Apex Legends                     🕘 352 hrs 44 mins
 💻 Wallpaper Engine                 🕘 67 hrs 7 mins
 🎮 The Forest                       🕘 22 hrs 4 mins
