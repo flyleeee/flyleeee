@@ -60,7 +60,7 @@ JSON       🕓 10m   ▌░░░░░░░░░░░░░░░░░░�
 🐹 Warframe                         🕘 1109 hrs 23 mins
 🎮 Apex Legends                     🕘 352 hrs 44 mins
 💻 Wallpaper Engine                 🕘 67 hrs 7 mins
-🎮 Lethal Company                   🕘 28 hrs 19 mins
+🎮 Lethal Company                   🕘 32 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
