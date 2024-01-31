@@ -59,8 +59,8 @@ JSON       🕓 10m   ▌░░░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike 2                 🕘 1719 hrs 52 mins
 🐹 Warframe                         🕘 1109 hrs 23 mins
 🎮 Apex Legends                     🕘 352 hrs 44 mins
-💻 Wallpaper Engine                 🕘 77 hrs 49 mins
-🎮 Lethal Company                   🕘 48 hrs 35 mins
+💻 Wallpaper Engine                 🕘 77 hrs 57 mins
+🎮 Lethal Company                   🕘 50 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
