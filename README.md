@@ -58,7 +58,7 @@ JSON       🕓 10m   ▌░░░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike 2                 🕘 1719 hrs 52 mins
 🐹 Warframe                         🕘 1109 hrs 23 mins
-🎮 Apex Legends                     🕘 408 hrs 16 mins
+🎮 Apex Legends                     🕘 414 hrs 8 mins
 💻 Wallpaper Engine                 🕘 77 hrs 57 mins
 🎮 Lethal Company                   🕘 50 hrs 7 mins
 ```
