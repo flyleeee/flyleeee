@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently researching Trustworthy AI
 - 🌐 Here is my academic page [Yibin Wang's Academic Page](https://yibinwang.netlify.app)
 - 🖥️ Here is my Chinese blog [flylee's blog](https://flyleeee.github.io) (long time no update)
-- 📫 How to reach me: wyb896409234@gmail.com or yibinwang@hust.edu.cn
+- 📫 How to reach me: wyb896409234@gmail.com
 - 😄 Welcome to talk with me about anything!
   
 #### Platform&Tools
