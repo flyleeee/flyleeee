@@ -23,11 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: wyb896409234@gmail.com
 - 😄 Welcome to talk with me about anything!
   
-#### Platform&Tools
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
-
-- 🖥️ Programming Language: [Python](https://www.python.org/)
-- 🖌️ Painting Tool: [Procreate](https://procreate.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyleeee)](https://github.com/anuraghazra/github-readme-stats)
 
