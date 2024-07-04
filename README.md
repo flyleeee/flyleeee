@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <td valign="top" width="50%">
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/235111c06b8721cd2a2a793e3c63048f" target="_blank">📊 Weekly development breakdown</a>
+#### <a href="https://gist.github.com/5c340c3a87388e7b55bec548ef178791" target="_blank">📊 Weekly development breakdown</a>
 ```text
 Python     🕓 4h18m ███████████▉░░░░░░░░░░░░░░░░ 42.5%
 C++        🕓 3h7m  ████████▋░░░░░░░░░░░░░░░░░░░ 30.9%
