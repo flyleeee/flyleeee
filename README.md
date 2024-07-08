@@ -51,7 +51,7 @@ Bash 🕓 9m  ███████████████▊░░░░░░
 🔫 Counter-Strike 2                 🕘 1719 hrs 52 mins
 🐹 Warframe                         🕘 1109 hrs 23 mins
 🎮 Apex Legends                     🕘 542 hrs 10 mins
-💻 Wallpaper Engine                 🕘 78 hrs 47 mins
+💻 Wallpaper Engine                 🕘 80 hrs 18 mins
 🎮 Lethal Company                   🕘 51 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
