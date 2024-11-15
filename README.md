@@ -51,9 +51,9 @@ Text   🕓 0s    ░░░░░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike 2                 🕘 1719 hrs 52 mins
 🐹 Warframe                         🕘 1109 hrs 23 mins
+🎮 Apex Legends                     🕘 604 hrs 3 mins
 💻 Wallpaper Engine                 🕘 80 hrs 59 mins
 🎮 Lethal Company                   🕘 51 hrs 5 mins
-🎮 Stardew Valley                   🕘 46 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
