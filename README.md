@@ -52,7 +52,7 @@ Markdown 🕓 0s     ░░░░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike 2                 🕘 1719 hrs 52 mins
 🐹 Warframe                         🕘 1109 hrs 23 mins
-🎮 Apex Legends                     🕘 631 hrs 20 mins
+🎮 Apex Legends                     🕘 631 hrs 55 mins
 💻 Wallpaper Engine                 🕘 86 hrs 0 mins
 🎮 Lethal Company                   🕘 51 hrs 5 mins
 ```
