@@ -52,7 +52,7 @@ JSON     🕓 3m     ░░░░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike 2                 🕘 1719 hrs 52 mins
 🐹 Warframe                         🕘 1109 hrs 23 mins
-🎮 Apex Legends                     🕘 640 hrs 31 mins
+🎮 Apex Legends                     🕘 641 hrs 25 mins
 💻 Wallpaper Engine                 🕘 91 hrs 35 mins
 🎮 Lethal Company                   🕘 51 hrs 5 mins
 ```
