@@ -50,11 +50,11 @@ CSV    🕓 0s     ░░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/52fa38c7532d2567e9c9d327156a8061" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1719 hrs 52 mins
+🔫 Counter-Strike 2                 🕘 1721 hrs 31 mins
 🐹 Warframe                         🕘 1109 hrs 23 mins
-🎮 Apex Legends                     🕘 645 hrs 46 mins
+🎮 Apex Legends                     🕘 651 hrs 23 mins
 💻 Wallpaper Engine                 🕘 91 hrs 35 mins
-🎮 Lethal Company                   🕘 53 hrs 5 mins
+🎮 Lethal Company                   🕘 55 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
