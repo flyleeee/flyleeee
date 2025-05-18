@@ -52,7 +52,7 @@ CSV    🕓 0s    ░░░░░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike 2                 🕘 1721 hrs 31 mins
 🐹 Warframe                         🕘 1109 hrs 23 mins
-🎮 Apex Legends                     🕘 651 hrs 23 mins
+🎮 Apex Legends                     🕘 654 hrs 46 mins
 💻 Wallpaper Engine                 🕘 91 hrs 35 mins
 🎮 Lethal Company                   🕘 55 hrs 3 mins
 ```
