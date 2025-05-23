@@ -52,7 +52,7 @@ CSV    🕓 0s    ░░░░░░░░░░░░░░░░░░░░�
 🐹 Warframe                         🕘 1109 hrs 23 mins
 🎮 Apex Legends                     🕘 660 hrs 43 mins
 💻 Wallpaper Engine                 🕘 91 hrs 35 mins
-🎮 Lethal Company                   🕘 55 hrs 3 mins
+🎮 Lethal Company                   🕘 56 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
