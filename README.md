@@ -47,7 +47,7 @@ Bash   🕓 27m   █████▌░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/52fa38c7532d2567e9c9d327156a8061" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1726 hrs 35 mins
+🔫 Counter-Strike 2                 🕘 1728 hrs 59 mins
 🐹 Warframe                         🕘 1109 hrs 23 mins
 🎮 Apex Legends                     🕘 668 hrs 13 mins
 💻 Wallpaper Engine                 🕘 91 hrs 35 mins
