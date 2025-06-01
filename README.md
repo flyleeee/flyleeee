@@ -52,7 +52,7 @@ YAML       🕓 0s  ░░░░░░░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike 2                 🕘 1728 hrs 59 mins
 🐹 Warframe                         🕘 1109 hrs 23 mins
-🎮 Apex Legends                     🕘 669 hrs 2 mins
+🎮 Apex Legends                     🕘 671 hrs 59 mins
 💻 Wallpaper Engine                 🕘 91 hrs 35 mins
 🎮 Lethal Company                   🕘 59 hrs 0 mins
 ```
