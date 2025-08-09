@@ -50,7 +50,7 @@ Bash   🕓 0s  ▊░░░░░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike 2                 🕘 1741 hrs 3 mins
 🐹 Warframe                         🕘 1109 hrs 23 mins
-🎮 Apex Legends                     🕘 770 hrs 10 mins
+🎮 Apex Legends                     🕘 771 hrs 35 mins
 💻 Wallpaper Engine                 🕘 91 hrs 35 mins
 🎮 Lethal Company                   🕘 59 hrs 0 mins
 ```
