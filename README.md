@@ -48,7 +48,7 @@ Python 🕓 4m █████████████████████�
 ```text
 🔫 Counter-Strike 2                 🕘 1741 hrs 3 mins
 🐹 Warframe                         🕘 1109 hrs 23 mins
-🎮 Apex Legends                     🕘 799 hrs 50 mins
+🎮 Apex Legends                     🕘 800 hrs 42 mins
 💻 Wallpaper Engine                 🕘 104 hrs 33 mins
 🎮 Lethal Company                   🕘 59 hrs 0 mins
 ```
