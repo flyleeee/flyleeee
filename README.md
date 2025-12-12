@@ -48,7 +48,7 @@ Still Gathering Statistics...
 ```text
 🔫 Counter-Strike 2                 🕘 1741 hrs 3 mins
 🐹 Warframe                         🕘 1127 hrs 37 mins
-🎮 Apex Legends                     🕘 834 hrs 35 mins
+🎮 Apex Legends                     🕘 836 hrs 5 mins
 💻 Wallpaper Engine                 🕘 118 hrs 38 mins
 🎮 Lethal Company                   🕘 59 hrs 0 mins
 ```
