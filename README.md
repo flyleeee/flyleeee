@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: wyb896409234@gmail.com
+- 📫 How to reach me: yibinlwang@gmail.com
 - 😄 Welcome to talk with me about anything!
   
 
