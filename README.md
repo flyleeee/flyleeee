@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 - 😄 Welcome to talk with me about anything!
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyleeee)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <table>
 <tr>
