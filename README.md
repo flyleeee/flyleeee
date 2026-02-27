@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/5c340c3a87388e7b55bec548ef178791" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Bash  🕓 43m ██████████████████████████████████▌ 98.8%
-Other 🕓 0s  ▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.2%
+Bash 🕓 4m █████████████████████████████████████100.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
