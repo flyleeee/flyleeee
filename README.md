@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/5c340c3a87388e7b55bec548ef178791" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Python 🕓 41m ██████████████████████████▋░░░░░░░ 78.5%
-Bash   🕓 11m ███████▎░░░░░░░░░░░░░░░░░░░░░░░░░░ 21.5%
+Python 🕓 3h2m ████████████████████████▉░░░░░░░░ 75.6%
+Bash   🕓 56m  ███████▋░░░░░░░░░░░░░░░░░░░░░░░░░ 23.5%
+JSON   🕓 2m   ▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.9%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
