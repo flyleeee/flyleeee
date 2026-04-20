@@ -49,7 +49,7 @@ TeX        🕓 37m   ▉░░░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike 2                 🕘 1744 hrs 0 mins
 🐹 Warframe                         🕘 1127 hrs 37 mins
 🎮 Apex Legends                     🕘 895 hrs 58 mins
-💻 Wallpaper Engine                 🕘 120 hrs 27 mins
+💻 Wallpaper Engine                 🕘 121 hrs 2 mins
 🎮 Lethal Company                   🕘 59 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
