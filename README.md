@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/5c340c3a87388e7b55bec548ef178791" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Bash   🕓 10h4m █████████████████▍░░░░░░░░░░░░░░ 54.5%
-Python 🕓 3h42m ██████▍░░░░░░░░░░░░░░░░░░░░░░░░░ 20.1%
-JSON   🕓 2h52m ████▉░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15.5%
-Other  🕓 1h43m ██▉░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  9.3%
-INI    🕓 5m    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.5%
+Bash   🕓 13h11m ████████████████▋░░░░░░░░░░░░░░ 54.0%
+Python 🕓 4h20m  █████▌░░░░░░░░░░░░░░░░░░░░░░░░░ 17.8%
+Other  🕓 3h30m  ████▍░░░░░░░░░░░░░░░░░░░░░░░░░░ 14.4%
+JSON   🕓 3h5m   ███▉░░░░░░░░░░░░░░░░░░░░░░░░░░░ 12.6%
+CSV    🕓 11m    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.8%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
