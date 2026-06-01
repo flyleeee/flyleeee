@@ -48,7 +48,7 @@ CSS      🕓 27m   ██░░░░░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike 2                 🕘 1744 hrs 0 mins
 🐹 Warframe                         🕘 1127 hrs 37 mins
-🎮 Apex Legends                     🕘 900 hrs 39 mins
+🎮 Apex Legends                     🕘 901 hrs 59 mins
 💻 Wallpaper Engine                 🕘 121 hrs 24 mins
 🎮 Lethal Company                   🕘 59 hrs 0 mins
 ```
