@@ -42,7 +42,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/52fa38c7532d2567e9c9d327156a8061" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1744 hrs 0 mins
+🔫 Counter-Strike 2                 🕘 1744 hrs 20 mins
 🐹 Warframe                         🕘 1127 hrs 37 mins
 🎮 Apex Legends                     🕘 903 hrs 13 mins
 💻 Wallpaper Engine                 🕘 121 hrs 37 mins
