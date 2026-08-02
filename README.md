@@ -45,7 +45,7 @@ SSH Config 🕓 2m ██████████▊░░░░░░░░░�
 ```text
 🔫 Counter-Strike 2                 🕘 1745 hrs 24 mins
 🐹 Warframe                         🕘 1143 hrs 23 mins
-🎮 Apex Legends                     🕘 912 hrs 10 mins
+🎮 Apex Legends                     🕘 915 hrs 55 mins
 💻 Wallpaper Engine                 🕘 121 hrs 39 mins
 🎮 Lethal Company                   🕘 59 hrs 0 mins
 ```
