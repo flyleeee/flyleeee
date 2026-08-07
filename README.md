@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/5c340c3a87388e7b55bec548ef178791" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Python     🕓 5m ████████████████████▏░░░░░░░░░░ 65.2%
-SSH Config 🕓 2m ██████████▊░░░░░░░░░░░░░░░░░░░░ 34.8%
+Python 🕓 5m ███████████████████████████████████100.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
