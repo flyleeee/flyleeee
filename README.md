@@ -45,7 +45,7 @@ Other      🕓 3m  ██████░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike 2                 🕘 1750 hrs 46 mins
 🐹 Warframe                         🕘 1143 hrs 23 mins
-🎮 Apex Legends                     🕘 926 hrs 22 mins
+🎮 Apex Legends                     🕘 927 hrs 1 mins
 💻 Wallpaper Engine                 🕘 145 hrs 34 mins
 🎮 Lethal Company                   🕘 59 hrs 0 mins
 ```
