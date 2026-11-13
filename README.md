@@ -43,10 +43,10 @@ Other      🕓 3m  ██████░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/52fa38c7532d2567e9c9d327156a8061" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1752 hrs 16 mins
+🔫 Counter-Strike 2                 🕘 1753 hrs 23 mins
 🐹 Warframe                         🕘 1143 hrs 23 mins
-🎮 Apex Legends                     🕘 928 hrs 1 mins
-💻 Wallpaper Engine                 🕘 145 hrs 34 mins
+🎮 Apex Legends                     🕘 933 hrs 10 mins
+💻 Wallpaper Engine                 🕘 149 hrs 27 mins
 🎮 Lethal Company                   🕘 59 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
